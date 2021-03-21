@@ -1,4 +1,4 @@
-# @Loading
+# Loading
 
 Framework specific implementations of popular loaders and spinners.
 
